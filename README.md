@@ -19,7 +19,7 @@
 ### 👩‍💻 Useful resources
 
 #### Social:
-  - Website: https://www.patashale.in/learn-redis
+  - Website: https://www.patashale.in/learn-rust
 
 > Note: We are only on above mentioned social platforms, and it is updated every minute.
 
