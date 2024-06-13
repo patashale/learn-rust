@@ -2,7 +2,7 @@ site_name: Learn Rust
 site_url: https://www.patashale.in/learn-rust/
 site_author: Patashale™
 site_description: Learn everything about Rust here at Patashale™.
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_url: https://github.com/patashale/learn-rust
 repo_name: patashale/learn-rust
 theme:
   name: material
