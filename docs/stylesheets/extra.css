@@ -7,3 +7,7 @@
     --md-primary-fg-color:        #B94700;
     --md-accent-fg-color:        #FFFFFF;
 }
+
+div.md-header__topic {
+    display: none;
+}
