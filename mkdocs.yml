@@ -7,6 +7,8 @@ repo_name: patashale/learn-rust
 theme:
   name: material
   language: en
+  favicon: assets/favicon.png
+  logo: assets/logo.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
