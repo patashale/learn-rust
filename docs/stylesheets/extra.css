@@ -1,10 +1,14 @@
 [data-md-color-scheme="default"] {
     --md-primary-fg-color:        #B94700;
-    --md-accent-fg-color:        #B94700;
+    --md-primary-fg-color--light: #7B421F;
+    --md-primary-fg-color--dark: #7B421F;
+    --md-accent-fg-color:        #7B421F;
 }
 
 [data-md-color-scheme="slate"] {
     --md-primary-fg-color:        #B94700;
+    --md-primary-fg-color--light: #7B421F;
+    --md-primary-fg-color--dark: #7B421F;
     --md-accent-fg-color:        #FFFFFF;
 }
 
@@ -14,4 +18,8 @@ div.md-content {
 
 div.md-header__topic {
     display: none;
+}
+
+.md-nav--primary .md-nav__item, .md-nav--primary .md-nav__title {
+    font-size: 0; /* Set font size to 0 to hide text */
 }
